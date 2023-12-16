@@ -10,8 +10,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=surabhiwaingankar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=surabhiwaingankar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=surabhiwaingankar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgasB_-h8YEsSOzIwh5q2e8m35nOifnfynERf6zzcE0rxMna4y7R0zxPjPXpTasUj05Z4&usqp=CAU">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=surabhiwaingankar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
+<img src="https://media1.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=ecf05e47hf6gewb3pp8oxetczrfeq9qvo7noa8i43po9bafs&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=surabhiwaingankar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
