@@ -7,7 +7,7 @@
 
 # 🏆 Achievements:
 🥈 Runner up of Datamatics Hackathon TechFest IIT Bombay'23 <br> <br>
-🥈 Runner up of Augenblicks Hackathon TSEC'24 <br> <br>
+
 🥇 Winner of Entreview Ideathon SPIT'23 <br> 
 
 # 💻 Tech Stack:
