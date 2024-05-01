@@ -6,8 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/surabhi-waingankar-898b9a26a/) 
 
 # 🏆 Achievements:
-🥈 Runner up of Datamatics Hackathon TechFest IIT Bombay'23 <br> <br>
-
+🥈 Runner up of Datamatics Hackathon TechFest IIT Bombay'23 <br> 
+🏅 Winner of 100xEngineers Generative AI Buildathon'24 <br>
 🥇 Winner of Entreview Ideathon SPIT'23 <br> 
 
 # 💻 Tech Stack:
