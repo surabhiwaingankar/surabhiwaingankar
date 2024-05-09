@@ -7,7 +7,11 @@
 
 # 🏆 Achievements:
 🥈 Runner up of Datamatics Hackathon TechFest IIT Bombay'23 <br> 
-🏅 Winner of 100xEngineers Generative AI Buildathon'24 <br>
+
+🥇 Winner of 100xEngineers Generative AI Buildathon'24 <br>
+
+🥈 Top 2 Teams in Problem Statement at TSEC Augenblicks Hackathon'24 <br>
+
 🥇 Winner of Entreview Ideathon SPIT'23 <br> 
 
 # 💻 Tech Stack:
