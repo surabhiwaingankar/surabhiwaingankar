@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/surabhi-waingankar-898b9a26a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/surabhi-waingankar-898b9a26a) 
 
 # 🏆 Achievements:
 🥈 Runner up of Datamatics Hackathon TechFest IIT Bombay'23 <br> 
