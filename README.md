@@ -10,7 +10,7 @@
 
 🥇 Winner of 100xEngineers Generative AI Buildathon'24 <br>
 
-🥈Runner up of Code for Good'24 <br>
+🥈Runner up of JPMC's Code for Good'24 <br>
 
 🥈 Top 2 Teams in Problem Statement at TSEC Augenblicks Hackathon'24 <br>
 
