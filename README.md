@@ -6,13 +6,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/surabhi-waingankar-898b9a26a) 
 
 # 🏆 Achievements:
+🥇 Winner of Smart India Hackathon 2024 <br>
+
 🥈 Runner up of Datamatics Hackathon TechFest IIT Bombay'23 <br> 
 
 🥇 Winner of 100xEngineers Generative AI Buildathon'24 <br>
 
 🥈Runner up of JPMC's Code for Good'24 <br>
-
-🥈 Top 2 Teams in Problem Statement at TSEC Augenblicks Hackathon'24 <br>
 
 🥇 Winner of Entreview Ideathon SPIT'23 <br>
 
