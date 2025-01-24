@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Machine Learning<br><br>💬 Ask me about Node.js, React, MongoDB<br><br>📫 How to reach me surabhiwaingankar@gmail.com<br><br>⚡ Fun fact I can spend an entire day swimming
+🌱 I’m currently learning GraphQL<br><br>💬 Ask me about Generative AI and Machine Learning<br><br>📫 How to reach me surabhiwaingankar@gmail.com<br><br>⚡ Fun fact I can spend an entire day swimming
 
 
 ## 🌐 Socials:
