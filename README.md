@@ -12,6 +12,8 @@
 
 🥇 Winner of 100xEngineers Generative AI Buildathon'24 <br>
 
+🥇 Winner of HackNiche3.0 DJSCE'25 <br>
+
 🥈Runner up of JPMC's Code for Good'24 <br>
 
 🥇 Winner of Entreview Ideathon SPIT'23 <br>
